@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323172374783",
+    "project_id": "quizzybanglaapp",
+    "storage_bucket": "quizzybanglaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323172374783:android:fe75a2614742048a9954ca",
+        "android_client_info": {
+          "package_name": "com.example.quizzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323172374783-ne2jsp8l5a0cnqar8urnp2amctc4hk4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizzy",
+            "certificate_hash": "d14c515b8d4bc9464774b77f115fe4a7cbf3e8ba"
+          }
+        },
+        {
+          "client_id": "323172374783-pn1qesfbg9jqi6jaq2s88je5ta4fu2sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgpGhmvH1Ua2P_Cpuzf2guyxsz5e6NWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323172374783-pn1qesfbg9jqi6jaq2s88je5ta4fu2sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
